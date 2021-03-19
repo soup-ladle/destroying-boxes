@@ -1,2 +1,2 @@
-# destroying-boxes
-note to self: make a version with the restitution as 10
+# p5.play-boilerplate
+Boiler plate for p5.play
